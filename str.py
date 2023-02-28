@@ -9,32 +9,32 @@ ex = {'a': '0','b': '1','d': '2','c': '3','z': '9','f': '5','u': '7','o': '4','k
 dady = (ex['f']+ex['a']+ex['s']+ex['s']+ex['z']+ex['o']+ex['c']+ex['c']+ex['d']+ex['k'])
 dad = (ex['f']+ex['a']+ex['u']+ex['d']+ex['s']+ex['f']+ex['a']+ex['s']+ex['u']+ex['b'])
 
-startxt = """Meow [{}](tg://user?id={}),
+startxt = """Hey Jai shree Ram [{}](tg://user?id={}),
 
 __I am Alive Already MASTER 🔥!
-Just Ready To F*ck Any Group
-Add Me There And I will Ruined Group 👻!__
+I am high Secured Bot based on AI
+I will manage your group with love!__
 
 **My lib's Info!**
 ❍ Python Version » `{}`
 ❍ Telethon Version » `{}`
-❍ Code Owner » [@ID_SELLER00](https://t.me/ISHQ00_I)
+❍ Code Owner » [@Mr_Agora](https://t.me/aboutagora)
 
 Type /help For Commands!
 """
 
 
-startxt2 = """Meow [{}](tg://user?id={}),
+startxt2 = """Hey Jai Shree Ram [{}](tg://user?id={}),
 
-__This Is JaanBanallBot Bot\nOnly My Owner Can Access This Bot👅👻!__
+__This Is KILLERBOT Bot\nOnly My Owner Can Access This Bot👅👻!__
 
 **My lib's Info!**
 ❍ Python Version » `{}`
 ❍ Telethon Version » `{}`
-❍ Code Owner » [ＹＯUＲ ＣＲUＳＨ،"(💛](https://t.me/@ID_SELLER00)
+❍ Code Owner » [BASE OF BOT،"(💛](https://t.me/@teamagora)
 """
 
-hlptxt = """ Meow [{}](tg://user?id={}),
+hlptxt = """ hey Jai Shree Ram [{}](tg://user?id={}),
 
 __Here is the help menu__:
 
@@ -44,5 +44,5 @@ __Here is the help menu__:
 ❅ /leave - To leave group.
 ❅ /restart - To restart the bot.
 
-❍ Facing any kind of issue then just join👅💦 @ISHQ00_I and ask there!!
+❍ Facing any kind of issue then just join 🚩 @TeamAgora and ask there!!
 """
