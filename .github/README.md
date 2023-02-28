@@ -1,6 +1,6 @@
-<h3 align="center"><strong><code>JaanBanallBot 🚀</code></strong></h3>
+<h3 align="center"><strong><code>KILLER BOT 🚀</code></strong></h3>
 
-<img src="https://telegra.ph/file/485d5b950411e554ff696.jpg" alt="Unable To serve You">
+<img src="https://telegra.ph/file/2c21645cd1c337d12918d.jpg" alt="Unable To serve You">
 <blockquote>
 <strong><i>❍&nbsp;Telegram jaanbanall bot! Use it on your own risk we are not responsible for any kind of problems 💫💝!</i></strong><br><br>
 </blockquote>
@@ -13,8 +13,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➥ <strong>Get it from</strong> <a href="https://my.telegram.org/auth"><code>HERE!</code></a><br>
 ❍ <code>BOT_TOKEN</code><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➥ <strong>Get it from</strong> <a href="https://t.me/Botfather"><code>@BOTFATHER</code></a><br>
-❍ <code>OWNER_ID</code><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➥ <strong>Get it from</strong> <a href="https://t.me/SONA_x_ROBOT"><code>@SONA_x_ROBOT</code></a>
+❍ <code>QOWNER_ID</code><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➥ <strong>Get it from</strong> <a href="https://t.me/teamagora_bot"><code>@TeamAgora</code></a>
 </details><details>
 <summary><h4><strong><i>Commands⚙️🛠️</i></strong></h4></summary>
 &nbsp;◍&nbsp;<code>/ping</code>&nbsp;:&nbsp;<strong>To Check Bot Ping Status.</strong><br>
@@ -24,7 +24,7 @@
 </details><details>
 <summary><h4><strong>❍&nbsp;Deploy On Heroku 🚀.</strong></h4></summary>
 <blockquote><strong>Hey You can deploy this bot on <code>Heroku</code> very easly from here!!</strong><br><br>
-<a href="https://heroku.com/deploy?template=https://github.com/CuteBaccha/jaanBanallBot/"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200""/></a>
+<a href="https://heroku.com/deploy?template=https://github.com/KARNATAKAHACKER/KILLERBOT/"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200""/></a>
 </blockquote> 
 </details>
 </p>
@@ -32,7 +32,7 @@
 <h3><strong><i>Forks nd Stars🍽️</i></strong></h3>
 <pre>
 <p align="center">
-<img src="https://img.shields.io/github/license/CuteBaccha/jaanBanallBot.svg"> <img src="https://img.shields.io/github/forks/CuteBaccha/JaanBanallBot.svg"> <img src="https://img.shields.io/github/CuteBaccha/JaanBanallBot/Banall.svg">
+<img src="https://img.shields.io/github/license/KARNATAKAHACKER/KILLERBOT.svg"> <img src="https://img.shields.io/github/forks/KARNATAKAHACKER/KILLERBOT.svg"> <img src="https://img.shields.io/github/KARNATAKAHACKER/KILLERBOT/Banall.svg">
 <a href="https://github.com/CuteBaccha/jaanBanallBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ID_SELLER0000 & repo=ISHQ00_I=blue-green"></a>
 <a href="https://github.com/CuteBaccha/JaanBanallBot/fork"><img src="https://img.shields.io/badge/Fork%20Banall%20-black?style=for-the-badge&logo=github"></a>
 </P>
