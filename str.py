@@ -1,4 +1,4 @@
-# Powered by @Darkranger00 | Tele:- @ID_SELLER00
+# Powered by @ll_SABKA_BHAI_KILLER_ll | Tele:- @ll_KILLER_BOY_OP_ll
 # Dear Pero ppls Plish Don't remove this line from here🌚
 # created by by only you
 # TELE KA BAP
@@ -18,7 +18,7 @@ I will manage your group with love!__
 **My lib's Info!**
 ❍ Python Version » `{}`
 ❍ Telethon Version » `{}`
-❍ Code Owner » [@Mr_Agora](https://t.me/aboutagora)
+❍ Code Owner » [@ll_KILLER_BOY_OP_ll](https://t.me/DIGITAL_BOT_XD)
 
 Type /help For Commands!
 """
@@ -31,7 +31,7 @@ __This Is KILLERBOT Bot\nOnly My Owner Can Access This Bot👅👻!__
 **My lib's Info!**
 ❍ Python Version » `{}`
 ❍ Telethon Version » `{}`
-❍ Code Owner » [BASE OF BOT،"(💛](https://t.me/@teamagora)
+❍ Code Owner » [BASE OF BOT،"(💛](https://t.me/DIGITAL_BOT_XD)
 """
 
 hlptxt = """ hey Jai Shree Ram [{}](tg://user?id={}),
