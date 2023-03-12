@@ -1,9 +1,9 @@
 {
-  "name": "KILLERBOT",
+  "name": "KILLER-BOY-BOT",
   "description": "DELETED ACCOUNT REMOVER.",
   "keywords": ["python", "telegram"],
-  "logo": "https://telegra.ph/file/2c21645cd1c337d12918d.jpg",
-  "repository": "https://github.com/KARNATAKAHACKER/KILLERBOT",
+  "logo": "https://telegra.ph/file/0bf6908dda6d5c8a116e9.jpg",
+  "repository": "https://github.com/Killerboyxd/KILLERBOT",
   "stack": "container",
   "addons": [
       {
