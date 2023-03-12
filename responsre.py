@@ -1,6 +1,6 @@
 from datetime import datetime
 
-photo3 = "https://telegra.ph/file/2c21645cd1c337d12918d.jpg"
+photo3 = "https://telegra.ph/file/0bf6908dda6d5c8a116e9.jpg"
 
 def sample_response(input_text):
   user_message = str(input_text).lower()
