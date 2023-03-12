@@ -1,6 +1,6 @@
 <h3 align="center"><strong><code>KILLER BOT 🚀</code></strong></h3>
 
-<img src="https://telegra.ph/file/2c21645cd1c337d12918d.jpg" alt="Unable To serve You">
+<img src="https://telegra.ph/file/0bf6908dda6d5c8a116e9.jpg" alt="Unable To serve You">
 <blockquote>
 <strong><i>❍&nbsp;Telegram jaanbanall bot! Use it on your own risk we are not responsible for any kind of problems 💫💝!</i></strong><br><br>
 </blockquote>
@@ -42,13 +42,13 @@
 <details>
 <summary><h3><strong>Credits💕</strong></h3></summary>
 <strong>All credit Goes To</strong>&nbsp;<code>CuteBaccha𓆩💗𓆪</code><br>
-<code>Telegram:- <a href="https://t.me/ISHQ00_I">ＹＯUＲ ＣＲUＳＨ،"(💛</a></code><br>
+<code>Telegram:- <a href="https://t.me/DIGITAL_BOT_XD">ＹＯUＲ ＣＲUＳＨ،"(💛</a></code><br>
 <code>Github:- <a href="https://github.com/CuteBaccha">ID_SELLER00</a></code><br>
 </details>
 </p>
 
 <p><h3><strong>Support 🇮🇳</strong></h3>
-<a href="https://t.me/ISHQ00_I"><img src="https://img.shields.io/badge/Support%20%20Group-black?style=for-the-badge&logo=telegram"></a>
+<a href="https://t.me/DIGITAL_BOT_XD"><img src="https://img.shields.io/badge/Support%20%20Group-black?style=for-the-badge&logo=telegram"></a>
 </p>
 
 <p><h3><strong>Contributors 👩‍💻</strong></h3>
